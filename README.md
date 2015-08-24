@@ -7,7 +7,7 @@ Usage
 You can use this image built on quay.io.
 
 ```
-docker run --name openresty -i -t -d -p 80:80 -p 6379:6379 quay.io/ainoya/openresty-dynamic-upstream-proxy
+docker run --name openresty -i -t -d -p 80:80 -p 6379:6379 quay.io/ainoya/openresty-dynamic-upstream
 ```
 
 Reference
